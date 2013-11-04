@@ -1,0 +1,9 @@
+Main-Class: phipo/JFractAll/JFractAll
+Class-Path: phipo/JFractAll/JFractAll
+Specification-Title: JFractAll
+Specification-Version: 1.0
+Specification-Vendor: Philippe Poupon
+Implementation-Title: JFractAll
+Implementation-Version: build64
+Implementation-Vendor: Philippe Poupon
+Sealed: true
