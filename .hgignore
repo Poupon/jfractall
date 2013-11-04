@@ -1,0 +1,11 @@
+syntax: glob
+com/phipo/JFractAll/TColor.class
+com/phipo/JFractAll/JFractAll.class
+com/phipo/JFractAll/FrameFractal.class
+com/phipo/JFractAll/FractalProcess.class
+com/phipo/JFractAll/FractalMng.class
+com/phipo/JFractAll/FractalConfig.class
+com/phipo/JFractAll/DialogPalette.class
+com/phipo/JFractAll/ConfigDiag.class
+com/phipo/JFractAll/CanvasPalette.class
+com/phipo/JFractAll/CanvasFractal.class
