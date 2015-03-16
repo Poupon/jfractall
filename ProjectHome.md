@@ -1,0 +1,1 @@
+An mdi application for navigate in Mandelbrot set
